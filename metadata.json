@@ -1,0 +1,8 @@
+{
+  "name": "AutoFlowmationAI",
+  "description": "The elite protocol for autonomous business scaling. Transcend the Routine. Master Machines. Deploy AI agents for lead qualification, instant support, and global growth.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
