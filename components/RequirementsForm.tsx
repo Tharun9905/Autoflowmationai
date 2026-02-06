@@ -9,7 +9,7 @@ import { ArrowLeft, CheckCircle2, Loader2, Bot, Shield } from 'lucide-react';
  * 3. Set environment variables in .env file or Vercel project settings
  */
 const BREVO_CONFIG = {
-  API_KEY: import.meta.env.VITE_BREVO_API_KEY || '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',
+  API_KEY: import.meta.env.VITE_BREVO_API_KEY || '',
   SENDER_EMAIL: import.meta.env.VITE_BREVO_SENDER_EMAIL || 'myfromemail@mycompany.com',
   SENDER_NAME: import.meta.env.VITE_BREVO_SENDER_NAME || 'From name',
   ADMIN_RECEIVER_EMAIL: import.meta.env.VITE_BREVO_ADMIN_EMAIL || 'admin@mycompany.com', // Where you receive form submissions
